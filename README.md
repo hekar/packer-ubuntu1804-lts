@@ -32,6 +32,6 @@ Output is stored in `./builds` by default.
 
 MIT license.
 
-ansible: https://github.com/ansible/ansible
-ansible-playbook: https://docs.ansible.com/ansible/latest/user_guide/playbooks_intro.html
-ubuntu: https://wiki.ubuntu.com/BionicBeaver/ReleaseNotes
+[ansible]: https://github.com/ansible/ansible
+[ansible-playbook]: https://docs.ansible.com/ansible/latest/user_guide/playbooks_intro.html
+[ubuntu]: https://wiki.ubuntu.com/BionicBeaver/ReleaseNotes
